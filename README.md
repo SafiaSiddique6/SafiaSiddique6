@@ -66,15 +66,6 @@
 
 ###
 
-<h2 align="left">My GitHub Stats</h2>
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SafiaSiddique6&show_icons=true&theme=radical" alt="Safia's GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SafiaSiddique6&layout=compact&theme=radical" alt="Safia's Top Languages" height="170" />
-</div>
-
-###
-
 <h2 align="left">📌 Featured Repositories</h2>
 
 <div align="left">
