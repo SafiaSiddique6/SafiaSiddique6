@@ -79,11 +79,11 @@
 
 <div align="left">
   <a href="https://github.com/SafiaSiddique6/student-portal">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SafiaSiddique6&repo=student-portal&theme=radical&show_owner=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SafiaSiddique6&repo=student-portal&theme=radical" alt="Student Portal Repo" height="150" />
   </a>
   
-  <a href="https://github.com/SafiaSiddique6/QuizApp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SafiaSiddique6&repo=QuizApp&theme=radical&show_owner=true" />
+  <a href="https://github.com/GoldSpear21/QuizApp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GoldSpear21&repo=QuizApp&theme=radical" alt="QuizApp Repo" height="150" />
   </a>
 </div>
 
