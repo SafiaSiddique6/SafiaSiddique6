@@ -66,16 +66,39 @@
 
 ###
 
+<h2 align="left">My GitHub Stats</h2>
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=SafiaSiddique6&show_icons=true&theme=radical" alt="Safia's GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SafiaSiddique6&layout=compact&theme=radical" alt="Safia's Top Languages" height="170" />
+</div>
+
+###
+
+<h2 align="left">📌 Featured Repositories</h2>
+
+<div align="left">
+  <a href="https://github.com/SafiaSiddique6/student-portal">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SafiaSiddique6&repo=student-portal&theme=radical&show_owner=true" />
+  </a>
+  
+  <a href="https://github.com/SafiaSiddique6/QuizApp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SafiaSiddique6&repo=QuizApp&theme=radical&show_owner=true" />
+  </a>
+</div>
+
+###
+
 <h2 align="left">Find me on</h2>
 
 ###
 
 <div align="left">
-  <a href="linkedin.com/in/safiasiddique " target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/safiasiddique" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
-  <a href="ss6053@g.rit.edu" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <a href="mailto:ss6053@g.rit.edu">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
   </a>
 </div>
 
